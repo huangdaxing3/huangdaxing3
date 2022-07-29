@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytt&show_icons=true&theme=gruvbox)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ytt&theme=dark&layout=compact)
+
 <!--
 **huangdaxing3/huangdaxing3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
