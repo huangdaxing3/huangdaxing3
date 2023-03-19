@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I’m+here.;)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HUANGDAXING3&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **huangdaxing3/huangdaxing3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
